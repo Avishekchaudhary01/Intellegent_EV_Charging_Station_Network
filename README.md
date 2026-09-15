@@ -42,7 +42,7 @@ The system collects information from charging stations and uses it to help users
 * Database
 * IoT *(if used)*
 
-> Update this section with the technologies you actually use in your project.
+
 
 ## 🎯 Objectives
 
